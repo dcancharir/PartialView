@@ -17,5 +17,9 @@ namespace PartialViewProject.Controllers
         {
             return PartialView();
         }
+        public ActionResult VistaParcial2()
+        {
+            return PartialView();
+        }
     }
 }
